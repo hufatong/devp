@@ -31,7 +31,7 @@ public class BasicController {
     @RequestMapping("/hft")
     @ResponseBody
     public String hftt(){
-        return "Hello HFT";
+        return "Hello HFTv3";
     }
 
     // http://127.0.0.1:8080/hello?name=lisi
